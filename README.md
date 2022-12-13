@@ -1,2 +1,4 @@
-# LAB8_1630903472
+Thitawan Thanasai  
+CE312 Homework = Lab8  
+Section = 336B  
  
